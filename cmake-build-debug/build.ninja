@@ -79,6 +79,12 @@ build CMakeFiles/aula2.dir/comparacao_ponteiro.c.obj: C_COMPILER__aula2_unscanne
   OBJECT_DIR = CMakeFiles\aula2.dir
   OBJECT_FILE_DIR = CMakeFiles\aula2.dir
 
+build CMakeFiles/aula2.dir/ponteiro.c.obj: C_COMPILER__aula2_unscanned_Debug D$:/Users/junior/CLionProjects/aula2/ponteiro.c || cmake_object_order_depends_target_aula2
+  DEP_FILE = CMakeFiles\aula2.dir\ponteiro.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\aula2.dir
+  OBJECT_FILE_DIR = CMakeFiles\aula2.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target aula2
@@ -87,7 +93,7 @@ build CMakeFiles/aula2.dir/comparacao_ponteiro.c.obj: C_COMPILER__aula2_unscanne
 #############################################
 # Link the executable aula2.exe
 
-build aula2.exe: C_EXECUTABLE_LINKER__aula2_Debug CMakeFiles/aula2.dir/main.c.obj CMakeFiles/aula2.dir/incremento_decremento.c.obj CMakeFiles/aula2.dir/aritimetica.c.obj CMakeFiles/aula2.dir/acesso_memoria.c.obj CMakeFiles/aula2.dir/comparacao_ponteiro.c.obj
+build aula2.exe: C_EXECUTABLE_LINKER__aula2_Debug CMakeFiles/aula2.dir/main.c.obj CMakeFiles/aula2.dir/incremento_decremento.c.obj CMakeFiles/aula2.dir/aritimetica.c.obj CMakeFiles/aula2.dir/acesso_memoria.c.obj CMakeFiles/aula2.dir/comparacao_ponteiro.c.obj CMakeFiles/aula2.dir/ponteiro.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\aula2.dir

@@ -8,4 +8,5 @@ add_executable(aula2 main.c
         aritimetica.c
         acesso_memoria.c
         acesso_memoria.c
-        comparacao_ponteiro.c)
+        comparacao_ponteiro.c
+        ponteiro.c)
