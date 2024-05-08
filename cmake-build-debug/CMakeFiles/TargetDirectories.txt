@@ -1,0 +1,3 @@
+D:/Users/junior/CLionProjects/aula2/cmake-build-debug/CMakeFiles/aula2.dir
+D:/Users/junior/CLionProjects/aula2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/junior/CLionProjects/aula2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
