@@ -13,6 +13,8 @@ int comparacao_ponteiro(){
     } else {
         printf("ptr1 e ptr2 apontam para o mesmo endereco\n");
     }
+    printf("Encerrado!\n");
+    getchar();
     getchar();
     return 0;
 }

@@ -2,8 +2,12 @@
 #include <locale.h>
 
 int incremento_decremento();
+
 int aritimetica();
+
 int acesso_memoria();
+
+int comparacao_ponteiro();
 
 int main(void) {
     // Define a codificação de caracteres para UTF-8
@@ -18,7 +22,8 @@ int main(void) {
         printf("\nMenu:\n");
         printf("1. Funcao Incremento e decremento\n");
         printf("2. Funcao Aritimetica\n");
-        printf("3. Funcao Acesso invalido de memoria\n");
+        printf("3. Funcao Comparacao ponteiro\n");
+        printf("4. Funcao Acesso invalido de memoria\n");
         printf("0. Sair\n");
         printf("Escolha uma opcao: ");
         scanf("%d", &opcao);
@@ -32,6 +37,9 @@ int main(void) {
                 aritimetica();
                 break;
             case 3:
+                comparacao_ponteiro();
+                break;
+            case 4:
                 acesso_memoria();
                 break;
             case 0:
