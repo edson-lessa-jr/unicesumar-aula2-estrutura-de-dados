@@ -1,3 +1,0 @@
-C:/Users/junior/CLionProjects/unicesumar-aula2-estrutura-de-dados/cmake-build-debug/CMakeFiles/aula2.dir
-C:/Users/junior/CLionProjects/unicesumar-aula2-estrutura-de-dados/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/junior/CLionProjects/unicesumar-aula2-estrutura-de-dados/cmake-build-debug/CMakeFiles/rebuild_cache.dir
