@@ -1,12 +1,9 @@
-# ninja log v5
-8	1389	7369036853646329	CMakeFiles/aula2.dir/main.c.obj	728a05f2cefd38bb
-9	645	7369016912445958	CMakeFiles/aula2.dir/incremento_decremento.c.obj	a48637fbf11ed5ca
-280	729	7369037368280164	aula2.exe	464992deee613397
-8	279	7369037363790184	CMakeFiles/aula2.dir/comparacao_ponteiro.c.obj	4bdbfb56686d559e
-27	572	7369036845379340	CMakeFiles/aula2.dir/aritimetica.c.obj	ef504bbee86b3801
-43	488	7369036844719348	CMakeFiles/aula2.dir/acesso_memoria.c.obj	8c4e220f03a3c122
-29	575	7369041806020795	CMakeFiles/aula2.dir/ponteiro.c.obj	8c9c7dc83fcbea59
-14	579	7369041806070777	CMakeFiles/aula2.dir/main.c.obj	728a05f2cefd38bb
-580	1110	7369041811590775	aula2.exe	34688d864cef4015
-8	276	7369041981331047	CMakeFiles/aula2.dir/ponteiro.c.obj	8c9c7dc83fcbea59
-277	724	7369041985731045	aula2.exe	34688d864cef4015
+# ninja log v6
+6	751	7689616984054479	build.ninja	5263ee2d0a885705
+9	360	7689616985271459	CMakeFiles/aula2.dir/main.c.obj	a4d4580b0c8628b0
+29	407	7689616985479079	CMakeFiles/aula2.dir/02-incremento_decremento.c.obj	14b65cef4c43f50b
+68	462	7689616985859765	CMakeFiles/aula2.dir/03-aritimetica.c.obj	cbaa7eb3c1561be5
+107	494	7689616986257244	CMakeFiles/aula2.dir/05-acesso_memoria.c.obj	9fb9cd36562d2095
+151	522	7689616986696975	CMakeFiles/aula2.dir/04-comparacao_ponteiro.c.obj	88d464dd4a96f09b
+190	574	7689616987085631	CMakeFiles/aula2.dir/01-ponteiro.c.obj	e870095ce7a74e85
+574	1078	7689616990922481	aula2.exe	6b7ae8bdfabaae84
